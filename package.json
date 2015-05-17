@@ -1,0 +1,13 @@
+{
+	"name" : "untitled",
+	"productName" : "product-unnamed",
+	"version" : "0.01.0",
+	"description" : "",
+	"main" : "./src/main.js",
+	"author" : "author-unnamed",
+	"repository" : {},
+	"licenses" : "",
+	"dependencies": {},
+	"private" : true,
+	"scripts" : {}
+}
